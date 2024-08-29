@@ -1,0 +1,6 @@
+<Project>
+	<!-- Custom Variables -->
+	<PropertyGroup>
+		<MMHOOKDirectory>../../BepInEx/plugins/MMHOOK/</MMHOOKDirectory>
+	</PropertyGroup>
+</Project>
